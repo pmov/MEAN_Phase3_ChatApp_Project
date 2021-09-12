@@ -1,0 +1,5 @@
+******************** CHAT LOGS **********************
+Vansh said : hi Server replied : hello mam 
+Vansh said : how are you? Server replied : I am bored 
+Vansh said : am bored too Server replied : Time to go 
+Vansh said : bye Server replied : Bye see you later 
